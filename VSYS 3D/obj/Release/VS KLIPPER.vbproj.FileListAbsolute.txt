@@ -1,0 +1,11 @@
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VS KLIPPER.vbproj.GenerateResource.Cache
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\bin\Release\VSYS 3D.exe.config
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\bin\Release\VSYS 3D.exe
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\bin\Release\VSYS 3D.pdb
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\bin\Release\VSYS 3D.xml
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS_3D.SplashVSyS.resources
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS_3D.Vskt.resources
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS_3D.Resources.resources
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS 3D.exe
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS 3D.xml
+D:\--= VSYS =--\VS KLIPPER\VS KLIPPER\obj\Release\VSYS 3D.pdb

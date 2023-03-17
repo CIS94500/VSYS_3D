@@ -1,0 +1,11 @@
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\bin\Release\VSYS 3D.exe.config
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\bin\Release\VSYS 3D.exe
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\bin\Release\VSYS 3D.pdb
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\bin\Release\VSYS 3D.xml
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS_3D.SplashVSyS.resources
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS_3D.Resources.resources
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS 3D.vbproj.GenerateResource.Cache
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS 3D.exe
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS 3D.xml
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS 3D.pdb
+D:\--= VSYS =--\VSYS 3D\VSYS 3D\obj\Debug\VSYS_3D.Vs3D.resources
